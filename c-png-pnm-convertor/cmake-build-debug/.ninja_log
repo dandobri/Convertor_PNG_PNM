@@ -1,0 +1,17 @@
+# ninja log v5
+52	799	7178356106569612	CMakeFiles/backlog_itmo_c_png_dandobri_main.dir/.github/workflows/zlib/compress.c.obj	f8308e90a0165f4a
+74	814	7178356106709612	CMakeFiles/backlog_itmo_c_png_dandobri_main.dir/.github/workflows/zlib/inffast.c.obj	2e200a8d535b1469
+46	825	7178356106759606	CMakeFiles/backlog_itmo_c_png_dandobri_main.dir/.github/workflows/zlib/crc32.c.obj	2725508c3d5c607e
+1	865	7178356107207462	CMakeFiles/backlog_itmo_c_png_dandobri_main.dir/.github/workflows/zlib/adler32.c.obj	ced3d62e74685346
+59	911	7178356107707707	CMakeFiles/backlog_itmo_c_png_dandobri_main.dir/.github/workflows/zlib/infback.c.obj	5abe8a7a63f74b19
+825	1017	7178356108507479	CMakeFiles/backlog_itmo_c_png_dandobri_main.dir/.github/workflows/zlib/zutil.c.obj	57b0a18cd8f80df
+815	1025	7178356108507479	CMakeFiles/backlog_itmo_c_png_dandobri_main.dir/.github/workflows/zlib/inftrees.c.obj	d5a4e33508c4c8be
+865	1031	7178356108687464	CMakeFiles/backlog_itmo_c_png_dandobri_main.dir/.github/workflows/zlib/uncompr.c.obj	f1bf7e4928a0c784
+65	1057	7178356109067454	CMakeFiles/backlog_itmo_c_png_dandobri_main.dir/.github/workflows/zlib/deflate.c.obj	71b6d7f59553816
+800	1123	7178356109808302	CMakeFiles/backlog_itmo_c_png_dandobri_main.dir/.github/workflows/zlib/inflate.c.obj	20b014b7ed06df7d
+1017	1177	7178356110368339	CMakeFiles/backlog_itmo_c_png_dandobri_main.dir/decode.c.obj	ab62317dedf208df
+911	1193	7178356110518307	CMakeFiles/backlog_itmo_c_png_dandobri_main.dir/.github/workflows/zlib/trees.c.obj	1898d9a071dc1b1f
+1025	1195	7178356110538287	CMakeFiles/backlog_itmo_c_png_dandobri_main.dir/main.c.obj	aed77a26d9966d29
+1057	1210	7178356110678295	CMakeFiles/backlog_itmo_c_png_dandobri_main.dir/write_to_file.c.obj	192d6f6d45f5ab5
+1032	1271	7178356111310208	CMakeFiles/backlog_itmo_c_png_dandobri_main.dir/png_file.c.obj	d02b8e75c3a4a3c6
+1272	1535	7178356113875968	backlog_itmo_c_png_dandobri_main.exe	e5ea103e7e878ef4

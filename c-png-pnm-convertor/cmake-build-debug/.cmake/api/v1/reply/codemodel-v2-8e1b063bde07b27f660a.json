@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "backlog_itmo_c_png_dandobri_main",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "backlog_itmo_c_png_dandobri_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-backlog_itmo_c_png_dandobri_main-Debug-de537414cd4073215cbf.json",
+					"name" : "backlog_itmo_c_png_dandobri_main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Max-Dell-NB/Desktop/backlog-itmo-c-png-dandobri-main/cmake-build-debug",
+		"source" : "C:/Users/Max-Dell-NB/Desktop/backlog-itmo-c-png-dandobri-main"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
